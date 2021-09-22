@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  StudentDlg.cpp
+  ClientDlg.cpp
+  Client.cpp
+  正在生成代码...
+  Client.vcxproj -> E:\honework\二阶段\项目\二阶段项目\学生管理系统网络版\Client\x64\Debug\Client.exe
+  Client.vcxproj -> E:\honework\二阶段\项目\二阶段项目\学生管理系统网络版\Client\x64\Debug\Client.pdb (Full PDB)
